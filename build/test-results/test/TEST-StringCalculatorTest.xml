@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2019-08-13T01:11:22" hostname="C02XRCZSJG5J" time="0.01">
+  <properties/>
+  <testcase name="givenStringWithMultipleCustomDelimiters_checkGetDelimiter_returnsCustomDelimiters" classname="StringCalculatorTest" time="0.002"/>
+  <testcase name="givenStringWithCustomDelimiterOfAnyLength_checkGetDelimiter_returnsCustomDelimiter" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString123WithCommas_checkAdd_returns6" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenString12_checkAdd_returns3" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString123WithCustomDelimiterLength3_checkAdd_returns6" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenString1WithCommas_checkAdd_returns1" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenStringWithIncorrectCustomDelimiterLine_checkGetDelimiter_returnsDefaultDelimiters" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString123WithCustomDelimiters_checkAdd_returns6" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenString100010012WithCommas_checkAdd_returns2" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString35_checkAdd_returns8" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString123WithCustomDelimiter_checkAdd_returns6" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenString1WithNegativeNumbers_checkAdd_throwsNegativeArraySizeException" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenStringWithConsecutiveDelimiter_checkValidate_returnsFalse" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString3WithCommas_checkAdd_returns3" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenStringWithCustomDelimiterLine_checkGetDelimiter_returnsCustomDelimiter" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString1234WithCustomMultiCharDelimiters_checkAdd_returns10" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenString1123WithCustomMultiCharDelimitersWithNumbers_checkAdd_returns6" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="givenString3539WithCommas_checkAdd_returns20" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString1WithDoubleDelimiter_checkAdd_throwsInvalidEquationStringException" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString3539WithCommasAndNewline_checkAdd_returns20" classname="StringCalculatorTest" time="0.0"/>
+  <testcase name="givenString123WithCommasAndNewline_checkAdd_returns6" classname="StringCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
